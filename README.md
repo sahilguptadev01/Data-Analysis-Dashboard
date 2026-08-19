@@ -1,5 +1,5 @@
 # BLINKIT-ANALYSIS
-##STEPS IN PROJECT
+## STEPS IN PROJECT
 -Requirement Gathering/ Business Requirements
 -Data Walkthrough
 -Data Connection
@@ -15,10 +15,10 @@
 ## Dataset used
 - <a href="https://github.com/sahilguptadev01/Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 
-#BUSINESS REQUIREMENT
+# BUSINESS REQUIREMENT
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
-##KPI's Requirements
+## KPI's Requirements
 1. Total Sales: The overall revenue generated from all items sold.
 2. Average Sales: The average revenue per sale.
 3. Number of Items: The total count of different items sold.
@@ -26,7 +26,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 - Dashboard Interaction <a href="https://github.com/sahilguptadev01/Data-Analysis-Dashboard/blob/main/Screenshot%202026-08-19%20194214.png">View Dashboard</a>
 
-##Chart's Requirements
+## Chart's Requirements
 1. Total Sales by Fat Content:
 Objective: Analyze the impact of fat content on total sales.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
@@ -56,10 +56,10 @@ broken down by different outlet types.
 Chart Type:
 Matrix Card.
 
-##Dashboard
+## Dashboard
 
 <img width="1154" height="709" alt="Screenshot 2026-08-19 194214" src="https://github.com/user-attachments/assets/53a76f69-3894-43a7-893c-cd6632f19d6b" />
 
-##Final Conclusion
+## Final Conclusion
 
 The Blinkit Power BI dashboard provides a clear view of sales, product performance, outlet performance, and customer ratings. It helps identify key sales drivers and trends, enabling better inventory planning, outlet management, and data-driven business decisions.
