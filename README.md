@@ -57,6 +57,7 @@ Chart Type:
 Matrix Card.
 
 ##Dashboard
+
 <img width="1154" height="709" alt="Screenshot 2026-08-19 194214" src="https://github.com/user-attachments/assets/53a76f69-3894-43a7-893c-cd6632f19d6b" />
 
 ##Final Conclusion
